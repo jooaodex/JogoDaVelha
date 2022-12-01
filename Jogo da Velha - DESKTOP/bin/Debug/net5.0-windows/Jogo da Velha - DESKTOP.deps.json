@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Jogo da Velha - DESKTOP/1.0.0": {
+        "runtime": {
+          "Jogo da Velha - DESKTOP.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Jogo da Velha - DESKTOP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

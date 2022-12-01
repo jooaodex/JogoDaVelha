@@ -1,0 +1,82 @@
+C:\Users\T-Gamer\source\repos\Jogo da Velha - DESKTOP\Jogo da Velha - DESKTOP\bin\Debug\net5.0-windows\Jogo da Velha - DESKTOP.exe
+C:\Users\T-Gamer\source\repos\Jogo da Velha - DESKTOP\Jogo da Velha - DESKTOP\bin\Debug\net5.0-windows\Jogo da Velha - DESKTOP.deps.json
+C:\Users\T-Gamer\source\repos\Jogo da Velha - DESKTOP\Jogo da Velha - DESKTOP\bin\Debug\net5.0-windows\Jogo da Velha - DESKTOP.runtimeconfig.json
+C:\Users\T-Gamer\source\repos\Jogo da Velha - DESKTOP\Jogo da Velha - DESKTOP\bin\Debug\net5.0-windows\Jogo da Velha - DESKTOP.runtimeconfig.dev.json
+C:\Users\T-Gamer\source\repos\Jogo da Velha - DESKTOP\Jogo da Velha - DESKTOP\bin\Debug\net5.0-windows\Jogo da Velha - DESKTOP.dll
+C:\Users\T-Gamer\source\repos\Jogo da Velha - DESKTOP\Jogo da Velha - DESKTOP\bin\Debug\net5.0-windows\ref\Jogo da Velha - DESKTOP.dll
+C:\Users\T-Gamer\source\repos\Jogo da Velha - DESKTOP\Jogo da Velha - DESKTOP\bin\Debug\net5.0-windows\Jogo da Velha - DESKTOP.pdb
+C:\Users\T-Gamer\source\repos\Jogo da Velha - DESKTOP\Jogo da Velha - DESKTOP\obj\Debug\net5.0-windows\Jogo_da_Velha___DESKTOP.Form1.resources
+C:\Users\T-Gamer\source\repos\Jogo da Velha - DESKTOP\Jogo da Velha - DESKTOP\obj\Debug\net5.0-windows\Jogo_da_Velha___DESKTOP.Properties.Resources.resources
+C:\Users\T-Gamer\source\repos\Jogo da Velha - DESKTOP\Jogo da Velha - DESKTOP\obj\Debug\net5.0-windows\Jogo_da_Velha___DESKTOP.ucJogo.resources
+C:\Users\T-Gamer\source\repos\Jogo da Velha - DESKTOP\Jogo da Velha - DESKTOP\obj\Debug\net5.0-windows\Jogo da Velha - DESKTOP.csproj.GenerateResource.cache
+C:\Users\T-Gamer\source\repos\Jogo da Velha - DESKTOP\Jogo da Velha - DESKTOP\obj\Debug\net5.0-windows\Jogo da Velha - DESKTOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T-Gamer\source\repos\Jogo da Velha - DESKTOP\Jogo da Velha - DESKTOP\obj\Debug\net5.0-windows\Jogo da Velha - DESKTOP.AssemblyInfoInputs.cache
+C:\Users\T-Gamer\source\repos\Jogo da Velha - DESKTOP\Jogo da Velha - DESKTOP\obj\Debug\net5.0-windows\Jogo da Velha - DESKTOP.AssemblyInfo.cs
+C:\Users\T-Gamer\source\repos\Jogo da Velha - DESKTOP\Jogo da Velha - DESKTOP\obj\Debug\net5.0-windows\Jogo da Velha - DESKTOP.csproj.CoreCompileInputs.cache
+C:\Users\T-Gamer\source\repos\Jogo da Velha - DESKTOP\Jogo da Velha - DESKTOP\obj\Debug\net5.0-windows\Jogo da Velha - DESKTOP.dll
+C:\Users\T-Gamer\source\repos\Jogo da Velha - DESKTOP\Jogo da Velha - DESKTOP\obj\Debug\net5.0-windows\ref\Jogo da Velha - DESKTOP.dll
+C:\Users\T-Gamer\source\repos\Jogo da Velha - DESKTOP\Jogo da Velha - DESKTOP\obj\Debug\net5.0-windows\Jogo da Velha - DESKTOP.pdb
+C:\Users\T-Gamer\source\repos\Jogo da Velha - DESKTOP\Jogo da Velha - DESKTOP\obj\Debug\net5.0-windows\Jogo da Velha - DESKTOP.genruntimeconfig.cache
+C:\Users\T-Gamer\source\repos\Jogo da Velha - DESKTOP\Jogo da Velha - DESKTOP\obj\Debug\net5.0-windows\Jogo_da_Velha___DESKTOP.ucOptions.resources
+C:\Users\T-Gamer\source\repos\Jogo da Velha - DESKTOP\Jogo da Velha - DESKTOP\obj\Debug\net5.0-windows\Jogo da Velha - DESKTOP.csprojAssemblyReference.cache
+C:\Users\T-Gamer\Desktop\Jogo da Velha - DESKTOP\Jogo da Velha - DESKTOP\bin\Debug\net5.0-windows\Jogo da Velha - DESKTOP.exe
+C:\Users\T-Gamer\Desktop\Jogo da Velha - DESKTOP\Jogo da Velha - DESKTOP\bin\Debug\net5.0-windows\Jogo da Velha - DESKTOP.deps.json
+C:\Users\T-Gamer\Desktop\Jogo da Velha - DESKTOP\Jogo da Velha - DESKTOP\bin\Debug\net5.0-windows\Jogo da Velha - DESKTOP.runtimeconfig.json
+C:\Users\T-Gamer\Desktop\Jogo da Velha - DESKTOP\Jogo da Velha - DESKTOP\bin\Debug\net5.0-windows\Jogo da Velha - DESKTOP.runtimeconfig.dev.json
+C:\Users\T-Gamer\Desktop\Jogo da Velha - DESKTOP\Jogo da Velha - DESKTOP\bin\Debug\net5.0-windows\Jogo da Velha - DESKTOP.dll
+C:\Users\T-Gamer\Desktop\Jogo da Velha - DESKTOP\Jogo da Velha - DESKTOP\bin\Debug\net5.0-windows\ref\Jogo da Velha - DESKTOP.dll
+C:\Users\T-Gamer\Desktop\Jogo da Velha - DESKTOP\Jogo da Velha - DESKTOP\bin\Debug\net5.0-windows\Jogo da Velha - DESKTOP.pdb
+C:\Users\T-Gamer\Desktop\Jogo da Velha - DESKTOP\Jogo da Velha - DESKTOP\obj\Debug\net5.0-windows\Jogo_da_Velha___DESKTOP.Form1.resources
+C:\Users\T-Gamer\Desktop\Jogo da Velha - DESKTOP\Jogo da Velha - DESKTOP\obj\Debug\net5.0-windows\Jogo_da_Velha___DESKTOP.Properties.Resources.resources
+C:\Users\T-Gamer\Desktop\Jogo da Velha - DESKTOP\Jogo da Velha - DESKTOP\obj\Debug\net5.0-windows\Jogo_da_Velha___DESKTOP.ucJogo.resources
+C:\Users\T-Gamer\Desktop\Jogo da Velha - DESKTOP\Jogo da Velha - DESKTOP\obj\Debug\net5.0-windows\Jogo_da_Velha___DESKTOP.ucOptions.resources
+C:\Users\T-Gamer\Desktop\Jogo da Velha - DESKTOP\Jogo da Velha - DESKTOP\obj\Debug\net5.0-windows\Jogo da Velha - DESKTOP.csproj.GenerateResource.cache
+C:\Users\T-Gamer\Desktop\Jogo da Velha - DESKTOP\Jogo da Velha - DESKTOP\obj\Debug\net5.0-windows\Jogo da Velha - DESKTOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T-Gamer\Desktop\Jogo da Velha - DESKTOP\Jogo da Velha - DESKTOP\obj\Debug\net5.0-windows\Jogo da Velha - DESKTOP.AssemblyInfoInputs.cache
+C:\Users\T-Gamer\Desktop\Jogo da Velha - DESKTOP\Jogo da Velha - DESKTOP\obj\Debug\net5.0-windows\Jogo da Velha - DESKTOP.AssemblyInfo.cs
+C:\Users\T-Gamer\Desktop\Jogo da Velha - DESKTOP\Jogo da Velha - DESKTOP\obj\Debug\net5.0-windows\Jogo da Velha - DESKTOP.csproj.CoreCompileInputs.cache
+C:\Users\T-Gamer\Desktop\Jogo da Velha - DESKTOP\Jogo da Velha - DESKTOP\obj\Debug\net5.0-windows\Jogo da Velha - DESKTOP.dll
+C:\Users\T-Gamer\Desktop\Jogo da Velha - DESKTOP\Jogo da Velha - DESKTOP\obj\Debug\net5.0-windows\ref\Jogo da Velha - DESKTOP.dll
+C:\Users\T-Gamer\Desktop\Jogo da Velha - DESKTOP\Jogo da Velha - DESKTOP\obj\Debug\net5.0-windows\Jogo da Velha - DESKTOP.pdb
+C:\Users\T-Gamer\Desktop\Jogo da Velha - DESKTOP\Jogo da Velha - DESKTOP\obj\Debug\net5.0-windows\Jogo da Velha - DESKTOP.genruntimeconfig.cache
+D:\Downloads\Jogo da Velha - DESKTOP\Jogo da Velha - DESKTOP\obj\Debug\net5.0-windows\Jogo_da_Velha___DESKTOP.Form1.resources
+D:\Downloads\Jogo da Velha - DESKTOP\Jogo da Velha - DESKTOP\obj\Debug\net5.0-windows\Jogo_da_Velha___DESKTOP.Properties.Resources.resources
+D:\Downloads\Jogo da Velha - DESKTOP\Jogo da Velha - DESKTOP\obj\Debug\net5.0-windows\Jogo_da_Velha___DESKTOP.ucJogo.resources
+D:\Downloads\Jogo da Velha - DESKTOP\Jogo da Velha - DESKTOP\obj\Debug\net5.0-windows\Jogo_da_Velha___DESKTOP.ucOptions.resources
+D:\Downloads\Jogo da Velha - DESKTOP\Jogo da Velha - DESKTOP\obj\Debug\net5.0-windows\Jogo da Velha - DESKTOP.csproj.GenerateResource.cache
+D:\Downloads\Jogo da Velha - DESKTOP\Jogo da Velha - DESKTOP\obj\Debug\net5.0-windows\Jogo da Velha - DESKTOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\Jogo da Velha - DESKTOP\Jogo da Velha - DESKTOP\obj\Debug\net5.0-windows\Jogo da Velha - DESKTOP.AssemblyInfoInputs.cache
+D:\Downloads\Jogo da Velha - DESKTOP\Jogo da Velha - DESKTOP\obj\Debug\net5.0-windows\Jogo da Velha - DESKTOP.AssemblyInfo.cs
+D:\Downloads\Jogo da Velha - DESKTOP\Jogo da Velha - DESKTOP\obj\Debug\net5.0-windows\Jogo da Velha - DESKTOP.csproj.CoreCompileInputs.cache
+D:\Downloads\Jogo da Velha - DESKTOP\Jogo da Velha - DESKTOP\obj\Debug\net5.0-windows\Jogo da Velha - DESKTOP.dll
+D:\Downloads\Jogo da Velha - DESKTOP\Jogo da Velha - DESKTOP\obj\Debug\net5.0-windows\ref\Jogo da Velha - DESKTOP.dll
+D:\Downloads\Jogo da Velha - DESKTOP\Jogo da Velha - DESKTOP\obj\Debug\net5.0-windows\Jogo da Velha - DESKTOP.pdb
+D:\Downloads\Jogo da Velha - DESKTOP\Jogo da Velha - DESKTOP\bin\Debug\net5.0-windows\Jogo da Velha - DESKTOP.exe
+D:\Downloads\Jogo da Velha - DESKTOP\Jogo da Velha - DESKTOP\bin\Debug\net5.0-windows\Jogo da Velha - DESKTOP.deps.json
+D:\Downloads\Jogo da Velha - DESKTOP\Jogo da Velha - DESKTOP\bin\Debug\net5.0-windows\Jogo da Velha - DESKTOP.runtimeconfig.json
+D:\Downloads\Jogo da Velha - DESKTOP\Jogo da Velha - DESKTOP\bin\Debug\net5.0-windows\Jogo da Velha - DESKTOP.runtimeconfig.dev.json
+D:\Downloads\Jogo da Velha - DESKTOP\Jogo da Velha - DESKTOP\bin\Debug\net5.0-windows\Jogo da Velha - DESKTOP.dll
+D:\Downloads\Jogo da Velha - DESKTOP\Jogo da Velha - DESKTOP\bin\Debug\net5.0-windows\ref\Jogo da Velha - DESKTOP.dll
+D:\Downloads\Jogo da Velha - DESKTOP\Jogo da Velha - DESKTOP\bin\Debug\net5.0-windows\Jogo da Velha - DESKTOP.pdb
+D:\Downloads\Jogo da Velha - DESKTOP\Jogo da Velha - DESKTOP\obj\Debug\net5.0-windows\Jogo da Velha - DESKTOP.genruntimeconfig.cache
+C:\Users\João\Desktop\Jogo da Velha - DESKTOP\Jogo da Velha - DESKTOP\obj\Debug\net5.0-windows\Jogo da Velha - DESKTOP.csprojAssemblyReference.cache
+C:\Users\João\Desktop\Jogo da Velha - DESKTOP\Jogo da Velha - DESKTOP\obj\Debug\net5.0-windows\Jogo_da_Velha___DESKTOP.Form1.resources
+C:\Users\João\Desktop\Jogo da Velha - DESKTOP\Jogo da Velha - DESKTOP\obj\Debug\net5.0-windows\Jogo_da_Velha___DESKTOP.Properties.Resources.resources
+C:\Users\João\Desktop\Jogo da Velha - DESKTOP\Jogo da Velha - DESKTOP\obj\Debug\net5.0-windows\Jogo_da_Velha___DESKTOP.ucJogo.resources
+C:\Users\João\Desktop\Jogo da Velha - DESKTOP\Jogo da Velha - DESKTOP\obj\Debug\net5.0-windows\Jogo_da_Velha___DESKTOP.ucOptions.resources
+C:\Users\João\Desktop\Jogo da Velha - DESKTOP\Jogo da Velha - DESKTOP\obj\Debug\net5.0-windows\Jogo da Velha - DESKTOP.csproj.GenerateResource.cache
+C:\Users\João\Desktop\Jogo da Velha - DESKTOP\Jogo da Velha - DESKTOP\obj\Debug\net5.0-windows\Jogo da Velha - DESKTOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\João\Desktop\Jogo da Velha - DESKTOP\Jogo da Velha - DESKTOP\obj\Debug\net5.0-windows\Jogo da Velha - DESKTOP.AssemblyInfoInputs.cache
+C:\Users\João\Desktop\Jogo da Velha - DESKTOP\Jogo da Velha - DESKTOP\obj\Debug\net5.0-windows\Jogo da Velha - DESKTOP.AssemblyInfo.cs
+C:\Users\João\Desktop\Jogo da Velha - DESKTOP\Jogo da Velha - DESKTOP\obj\Debug\net5.0-windows\Jogo da Velha - DESKTOP.csproj.CoreCompileInputs.cache
+C:\Users\João\Desktop\Jogo da Velha - DESKTOP\Jogo da Velha - DESKTOP\obj\Debug\net5.0-windows\Jogo da Velha - DESKTOP.dll
+C:\Users\João\Desktop\Jogo da Velha - DESKTOP\Jogo da Velha - DESKTOP\obj\Debug\net5.0-windows\ref\Jogo da Velha - DESKTOP.dll
+C:\Users\João\Desktop\Jogo da Velha - DESKTOP\Jogo da Velha - DESKTOP\obj\Debug\net5.0-windows\Jogo da Velha - DESKTOP.pdb
+C:\Users\João\Desktop\Jogo da Velha - DESKTOP\Jogo da Velha - DESKTOP\bin\Debug\net5.0-windows\Jogo da Velha - DESKTOP.exe
+C:\Users\João\Desktop\Jogo da Velha - DESKTOP\Jogo da Velha - DESKTOP\bin\Debug\net5.0-windows\Jogo da Velha - DESKTOP.deps.json
+C:\Users\João\Desktop\Jogo da Velha - DESKTOP\Jogo da Velha - DESKTOP\bin\Debug\net5.0-windows\Jogo da Velha - DESKTOP.runtimeconfig.json
+C:\Users\João\Desktop\Jogo da Velha - DESKTOP\Jogo da Velha - DESKTOP\bin\Debug\net5.0-windows\Jogo da Velha - DESKTOP.runtimeconfig.dev.json
+C:\Users\João\Desktop\Jogo da Velha - DESKTOP\Jogo da Velha - DESKTOP\bin\Debug\net5.0-windows\Jogo da Velha - DESKTOP.dll
+C:\Users\João\Desktop\Jogo da Velha - DESKTOP\Jogo da Velha - DESKTOP\bin\Debug\net5.0-windows\ref\Jogo da Velha - DESKTOP.dll
+C:\Users\João\Desktop\Jogo da Velha - DESKTOP\Jogo da Velha - DESKTOP\bin\Debug\net5.0-windows\Jogo da Velha - DESKTOP.pdb
+C:\Users\João\Desktop\Jogo da Velha - DESKTOP\Jogo da Velha - DESKTOP\obj\Debug\net5.0-windows\Jogo da Velha - DESKTOP.genruntimeconfig.cache
